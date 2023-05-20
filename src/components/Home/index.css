@@ -1,0 +1,25 @@
+.app-bg {
+  background-color: #ffffff;
+  padding: 5px;
+  padding-left: 5%;
+}
+
+.loader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20%;
+}
+
+.courses {
+  color: #1e293b;
+  font-size: 30px;
+  font-weight: 600;
+  padding-top: 15px;
+}
+
+.items-ul {
+  display: flex;
+  flex-wrap: wrap;
+}

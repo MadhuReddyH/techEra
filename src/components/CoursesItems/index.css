@@ -1,0 +1,26 @@
+.items-li {
+  list-style-type: none;
+  height: 140px;
+  width: 250px;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.item-img {
+  height: 50px;
+  width: 60px;
+}
+
+.item-name {
+  font-size: 25px;
+  font-family: roboto;
+  font-weight: 600;
+  color: #475569;
+  text-decoration: none;
+  padding-left: 10px;
+}

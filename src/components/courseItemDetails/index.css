@@ -1,0 +1,40 @@
+.loader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20%;
+}
+
+.items-card {
+  display: flex;
+  margin: 8%;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 2px 5px 4px 2px #e8e8e8;
+}
+
+.items-img {
+  height: 550px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+.items-heading {
+  font-size: 40px;
+  font-weight: 800;
+  font-family: roboto;
+  color: #1e293b;
+  padding-left: 15px;
+  padding-top: 15px;
+}
+
+.items-desc {
+  font-size: 25px;
+  font-family: roboto;
+  color: #64748b;
+  line-height: 50px;
+  padding-right: 25px;
+  padding-left: 15px;
+  margin-right: 10px;
+}
